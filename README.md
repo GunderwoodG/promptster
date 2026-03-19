@@ -117,7 +117,7 @@ Conflicts (same name) will prompt before overwriting.
 ## 🐞 Reporting Bugs
 
 Please use the **Bug Report** template:  
-https://github.com/<your-username>/<repo>/issues
+https://github.com/GunderwoodG/promptster/issues
 
 Include:
 - OS  
