@@ -73,8 +73,7 @@ Click the ✏️ icon in the dropdown to:
 ## 🚀 Installation
 
 ### From the Chrome Web Store
-**[Install PromptForge →](#)**  
-(Replace this link once your listing is live.)
+**[Install PromptForge →](https://promptsters.vercel.app/)**  
 
 ### From Source (Developer Mode)
 1. Clone this repo  
