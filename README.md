@@ -158,7 +158,7 @@ PromptForge does **not** collect personal data.
 All snippets are stored locally using `chrome.storage.sync`.
 
 Full policy:  
-https://your-site.com/privacy
+[https://your-site.com/privacy](https://promptsters.vercel.app/privacy)
 
 ---
 
