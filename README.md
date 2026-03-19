@@ -1,4 +1,4 @@
-# 🔥 PromptForge  
+# 🔥 Promptster
 A powerful Chrome extension that lets you instantly insert reusable prompt templates into AI chat editors across ChatGPT, Claude, Gemini, and Perplexity.
 
 PromptForge helps you work faster by turning your best prompts into reusable snippets — complete with placeholder navigation, multi‑site support, and a clean dropdown UI triggered directly inside the editor.
