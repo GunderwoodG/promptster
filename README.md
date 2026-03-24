@@ -1,14 +1,14 @@
-# 🔥 Promptster
+# 🔥 Promptstitute
 A powerful Chrome extension that lets you instantly insert reusable prompt templates into AI chat editors across ChatGPT, Claude, Gemini, and Perplexity.
 
-Promptster helps you work faster by turning your best prompts into reusable snippets — complete with placeholder navigation, multi‑site support, and a clean dropdown UI triggered directly inside the editor.
+Promptstitute helps you work faster by turning your best prompts into reusable snippets — complete with placeholder navigation, multi‑site support, and a clean dropdown UI triggered directly inside the editor.
 
 ---
 
 ## ✨ Features
 
 ### 🧩 Multi‑Site Support
-Promptster works seamlessly across:
+Promptstitute works seamlessly across:
 - ChatGPT (chat.openai.com, chatgpt.com)
 - Claude (claude.ai)
 - Gemini (gemini.google.com)
@@ -73,7 +73,7 @@ Click the ✏️ icon in the dropdown to:
 ## 🚀 Installation
 
 ### From the Chrome Web Store
-**[Install Promptster →](https://promptsters.vercel.app/)**  
+**[Install Promptstitute →](https://Promptstitutes.vercel.app/)**  
 
 ### From Source (Developer Mode)
 1. Clone this repo  
@@ -117,7 +117,7 @@ Conflicts (same name) will prompt before overwriting.
 ## 🐞 Reporting Bugs
 
 Please use the **Bug Report** template:  
-[Bug Report Template](https://github.com/GunderwoodG/promptster/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
+[Bug Report Template](https://github.com/GunderwoodG/Promptstitute/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
 
 Include:
 - OS  
@@ -133,7 +133,7 @@ Include:
 ## 💡 Requesting Features
 
 Use the **Feature Request** template:  
-[Feature Request Features](https://github.com/GunderwoodG/promptster/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
+[Feature Request Features](https://github.com/GunderwoodG/Promptstitute/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
 
 Tell us:
 - The problem it solves  
@@ -154,17 +154,17 @@ See the full guide here:
 
 ## 📄 Privacy
 
-Promptster does **not** collect personal data.  
+Promptstitute does **not** collect personal data.  
 All snippets are stored locally using `chrome.storage.sync`.
 
 Full policy:  
-[Policy Page](https://promptsters.vercel.app/privacy)
+[Policy Page](https://Promptstitutes.vercel.app/privacy)
 
 ---
 
 ## ❤️ Support the Project
 
-If you find Promptster useful, consider supporting development:
+If you find Promptstitute useful, consider supporting development:
 
 - Patreon  
 - Venmo  
@@ -198,4 +198,4 @@ MIT License — free to use, modify, and distribute.
 
 ## 🔥 Built for creators, writers, developers, and anyone who works with AI.
 
-Promptster helps you work faster, stay organized, and turn your best prompts into reusable tools.
+Promptstitute helps you work faster, stay organized, and turn your best prompts into reusable tools.
